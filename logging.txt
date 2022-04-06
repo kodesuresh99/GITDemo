@@ -14,7 +14,7 @@ Body:
     "accuracy": 50,
     "name": "AAhouse",
     "phone_number": "(+91) 983 893 3937",
-    "address": "World cross center",
+    "address": "World cross center12",
     "website": "https://rahulshettyacademy.com",
     "language": "English",
     "location": {
